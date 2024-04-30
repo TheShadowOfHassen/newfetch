@@ -1,6 +1,7 @@
 Newfetch is a simple, no nonsense fork of neofetch. (https://github.com/dylanaraps/neofetch)
 
-Installing: Download the source then
+Installing:
+ Download the source then.
 
 Run make install inside the script directory to install the script.
 
