@@ -213,7 +213,7 @@ mem_precision=2
 
 # Show/Hide Package Manager names.
 #
-# Default: 'tiny'
+# Default: 'on'
 # Values:  'on', 'tiny' 'off'
 # Flag:    --package_managers
 #
