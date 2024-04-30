@@ -1,4 +1,4 @@
-Newfetch is a simple, no nonsense fork of newofetch.
+Newfetch is a simple, no nonsense fork of neofetch. (https://github.com/dylanaraps/neofetch)
 
 Installing: Download the source then
 
